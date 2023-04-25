@@ -1,0 +1,17 @@
+# You can record anything on your screen as a video file and save it to your local offline system to watch again later.
+
+Do a 15 second test of the media to make sure both video and audio are working.
+
+On Windows:
+alt + windows key + r
+the output is saved in the 'captures' folder of the 'videos' folder
+
+On Linux:
+ctrl + alt + shift + r
+the output is saved in the 'videos' folder
+
+
+
+if a media-streaming service uses DRM to prohibit screenrecording, the image will appear dark in the final output.
+The image still exists on the CPU even tho it's being rendered by the GPU. Go to your browser settings and search for "use hardware acceleration"
+Make sure "hardware acceleration" is turned off and restart the browser. Screen recording should be possible.
