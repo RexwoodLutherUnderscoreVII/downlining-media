@@ -7,8 +7,9 @@ alt + windows key + r
 the output is saved in the 'captures' folder of the 'videos' folder
 
 On Linux:
-ctrl + alt + shift + r
-the output is saved in the 'videos' folder
+download simplescreenrecorder
+from terminal "sudo apt install simplescreenrecorder"
+launch with "simplescreenrecorder"
 
 
 
